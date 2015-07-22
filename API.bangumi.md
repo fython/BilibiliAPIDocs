@@ -2,7 +2,7 @@
 
 #### 调用地址
 
-http://api.bilibili.tv/bangumi
+http://api.bilibili.cn/bangumi
 
 需要 App Key
 
