@@ -6,7 +6,8 @@ http://api.bilibili.cn/userinfo
 
 #### 参数
 
-|字段|必选|类型及范围|说明|
+|字段|必选|类型|说明|
+|----|----|----|----|
 |user|false|string|要查询的昵称 (mid 或 user必须有其中之一)|
 |uid|false|int|要查询的帐号id (mid 或 user必须有其中之一)|
 
