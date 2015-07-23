@@ -2,6 +2,38 @@
 绝大部分内容根据 http://docs.bilibili.cn/wiki 官方文档进行编写
 > 哔哩哔哩开放平台为第三方提供了简便的合作模式，满足了网站、手机和平板电脑用户随时随地观看哔哩哔哩的需求。哔哩哔哩开放平台提供相关接口，以实现第三方WAP站和客户端等多种应用的接入。
 
+### API 分类
+
+[作者推荐](./API.author_recommend.md)；
+[番剧](./API.bangumi.md)；
+[弹幕](./API.comment.md)；
+[动态](./API.dynamic.md)；
+
+[视频/专题收藏、关注](./API.favourite.md)；
+[视频评论](./API.feedback.md)；
+[好友/悄悄关注/黑名单](./API.friend.md)；
+
+[历史记录](./API.history.md)；
+[批量获取排行信息(首页)](./API.index.md)；
+[获取视频排行信息](./API.list.md)；
+
+[登录行为记录](./API.log.md)；
+[第三方登录](./API.login.3rd.md)；
+[登录](./API.login.md)；
+
+[我的信息](./API.myinfo.md)；
+[通知](./API.notify.md)；
+[视频推荐](./API.recommend.md)；
+[搜索](./API.search.md)；
+[读取/创建专题](./API.sp.md)；
+
+[番剧专题](./API.spview.md)；
+[搜索关键词](./API.suggest.md)；
+[标签](./API.tags.md)；
+[用户信息](./API.userinfo.md)；
+[获取视频信息](./API.view.md)。
+
+
 ### 注意事项
 
 ##### 关于滥用
