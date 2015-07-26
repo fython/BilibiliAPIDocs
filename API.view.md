@@ -38,3 +38,11 @@ http://api.bilibili.cn/view
 |offsite|string|Flash播放调用地址（如果沒有此项则此视频无法在站外播放）|
 |create_at|string|视频发布日期|
 |favorited|bool|当前帐号收藏状态|
+|spid|未知|未知|
+|tid|int|分区号|
+|allow_feed|int|未知|
+|allow_bp|int|未知|
+|partname|String|分P名|
+|src|String|未知|
+|face|String|投稿者头像|
+|typename|String|分类名|
