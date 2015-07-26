@@ -31,7 +31,6 @@ http://api.bilibili.cn/view
 |tag|string|关键字|
 |pic|string|封面图片URL地址|
 |pages|string|返回记录的总页数|
-|from|string|视频来源|
 |author|string|投搞人|
 |mid|int|投搞人ID|
 |cid|int|视频源及弹幕编号 弹幕地址 http://comment.bilibili.cn/<cid>.xml|
