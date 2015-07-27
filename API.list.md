@@ -43,7 +43,9 @@ http://api.bilibili.cn/list
 
 |返回值字段|字段类型|字段说明|
 |----------|--------|--------|
+|code|int|未知|
 |name|string|分类名称|
+|num|int|返回的记录总数目|
 |results|int|返回的记录总数目|
 |pages|int|返回的记录总页数|
 |list|array|返回数据|
@@ -53,6 +55,7 @@ http://api.bilibili.cn/list
 |返回值字段|字段类型|字段说明|
 |----------|--------|--------|
 |aid|int|视频编号|
+|copyright|String|是否原创（Original/Copy）|
 |typeid|int|视频分类ID|
 |typename|string|视频分类名称|
 |title|string|视频标题|
@@ -69,6 +72,9 @@ http://api.bilibili.cn/list
 |credit|int|评分数量|
 |coins|int|推荐数量|
 |duration|string|视频时长|
+|comment|int|弹幕数(与video_review一致)|
+
+注意结尾有孤立的 num,类型int，与返回值中的int相同
 
 #### 错误代码
 
